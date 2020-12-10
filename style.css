@@ -7,6 +7,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
+  background-image: url("https://github.com/GR3Y-SCALE/GR3Y-SCALE.github.io/blob/main/assets/og.png");
   text-transform: uppercase;
   overflow: hidden;
 }
