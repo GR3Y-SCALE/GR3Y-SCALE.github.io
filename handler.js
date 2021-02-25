@@ -18,7 +18,7 @@ jQuery(function() {
         `
     }
 
-    jQuery.getJSON('editme.json', function(data){
+    jQuery.getJSON('config.json', function(data){
         const sitedata = data[0]
         const socialdata = data[2]
         const {layout,logo,name,font}=sitedata
