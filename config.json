@@ -11,21 +11,21 @@
 
     [
         {
-            "socialName":"Instagram",
-            "url":"https://www.instagram.com/gr3y_protogen/",
-            "hoverColor":"#fbff00"
+            "socialName":"Twitter",
+            "url":"https://twitter.com/GR3Yscl",
+            "hoverColor":"#00FFFF"
         },
         
         {
             "socialName":"Youtube",
             "url":"https://www.youtube.com/channel/UCqxeSFGuQnP_oQCdzo9O7OQ",
-            "hoverColor":"#ff0000"
+            "hoverColor":"#FF0000"
         },
 
         {
             "socialName":"StackOverflow",
             "url":"https://stackoverflow.com/users/14790542/grey",
-            "hoverColor":"#2530cd"
+            "hoverColor":"#FFA500"
         }
     ]
 ]
